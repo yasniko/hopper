@@ -1,0 +1,5 @@
+primary.js = create akun utama dengan request nama, email dan akan disave di primaryAcc.txt dengan format EMAIL|NOMOR|KODE_REFF
+index.js = add friends / referral ke akun utama yang telah dibuat secara manual maupun hasil creater dari primary.js
+
+**CARA INSTALL SILAKAN LIHAT VIDEO BERIKUT**
+https://bit.ly/3F452ok
